@@ -25,4 +25,5 @@ License
 
 [MIT](http://en.wikipedia.org/wiki/MIT_License) license.
 
+This project is for the game tetris 
 
